@@ -11,7 +11,7 @@ namespace Parcial1.Models
         protected double precioBase;
         protected double largo;
         private int codigo;
-        public int Codigo { get { return codigo; } }
+        public int Codigo { get { return codigo; } set { } }
 
         public Producto(double precio,double largo)
         {
