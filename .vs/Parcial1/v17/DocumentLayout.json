@@ -7,15 +7,19 @@
       "RelativeMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|c:\\users\\lauta\\source\\repos\\parcial1\\parcial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|C:\\Users\\lauta\\source\\repos\\Parcial1\\parcial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|c:\\users\\lauta\\source\\repos\\parcial1\\parcial1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|c:\\users\\lauta\\source\\repos\\parcial1\\parcial1\\models\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\models\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|C:\\Users\\lauta\\source\\repos\\Parcial1\\parcial1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|c:\\users\\lauta\\source\\repos\\parcial1\\parcial1\\fpresupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|C:\\Users\\lauta\\source\\repos\\Parcial1\\parcial1\\fpresupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B1383396-C0F4-4034-B365-E224298AD70A}|Parcial1\\Parcial1.csproj|solutionrelative:parcial1\\fpresupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Presupuesto.cs",
+              "DocumentMoniker": "C:\\Users\\lauta\\source\\repos\\Parcial1\\Parcial1\\Models\\Presupuesto.cs",
+              "RelativeDocumentMoniker": "Parcial1\\Models\\Presupuesto.cs",
+              "ToolTip": "C:\\Users\\lauta\\source\\repos\\Parcial1\\Parcial1\\Models\\Presupuesto.cs",
+              "RelativeToolTip": "Parcial1\\Models\\Presupuesto.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwDgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:27:43.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FPresupuesto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\lauta\\source\\repos\\Parcial1\\Parcial1\\FPresupuesto.cs",
               "RelativeDocumentMoniker": "Parcial1\\FPresupuesto.cs",
@@ -42,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\lauta\\source\\repos\\Parcial1\\Parcial1\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "Parcial1\\Models\\Producto.cs",
@@ -61,7 +78,7 @@
               "RelativeDocumentMoniker": "Parcial1\\Form1.cs",
               "ToolTip": "C:\\Users\\lauta\\source\\repos\\Parcial1\\Parcial1\\Form1.cs",
               "RelativeToolTip": "Parcial1\\Form1.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAjwEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T22:32:20.805Z",
               "EditorCaption": ""

@@ -54,7 +54,7 @@ namespace Parcial1.Models
             string[]resumen=new string[listaProductos.Count];
             foreach(Producto p in listaProductos)
             {
-                resumen[contadorResumen] ="Codigo: " + p.Codigo.ToString() + "Tipo: " + p.GetType() + "Precio: " +p.Precio().ToString();
+                resumen[contadorResumen] ="Codigo: " + p.Codigo.ToString() + " Precio: " +p.Precio().ToString();
                 contadorResumen++;
             }
             return resumen;

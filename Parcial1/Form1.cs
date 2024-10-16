@@ -35,7 +35,7 @@ namespace Parcial1
             double grosor=Convert.ToDouble(tbGrosor.Text);
 
 
-            if(tbAncho==null && tbGrosor == null)
+            if(ancho == 0 && grosor == 0)
             {
                 producto = new Banco(preciobase,largo);
                 producto.Codigo = codigo;
@@ -74,9 +74,17 @@ namespace Parcial1
         private void btnCPresupuesto_Click(object sender, EventArgs e)
         {
             FPresupuesto vPresupuesto = new FPresupuesto();
+            
+            StringBuilder sb = new StringBuilder(); 
+            
+            foreach (string a in presupuesto.Resumen())
+            {
+                sb.AppendLine(a);
 
-            vPresupuesto.lbResultados.Show();
-            vPresupuesto.lbResultados.Items.Add(presupuesto.Resumen());
+            }
+
+            vPresupuesto.lbResultados.Items.Add(sb);
+            vPresupuesto.Show();
             
         }
     }
